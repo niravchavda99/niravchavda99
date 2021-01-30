@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Favours in
+## Interested in
 ### MERN | JS/TS | Java | Flutter | C/C++ | Open Source Projects
 
 <!--
