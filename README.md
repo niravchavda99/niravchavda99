@@ -1,4 +1,9 @@
-# Technologies & Tools
+# Hey Coders! 👋🏻
+My name is Nirav Chavda. I'm from India and I'm a MCA Student at Gujarat University.
+<br>
+<br>
+
+# 🔧Technologies & Tools
 
 ![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=express&logoColor=white&color=9c27b0)
 ![](https://img.shields.io/badge/OS-Windows|Linux-informational?style=flat&logo=linux&logoColor=white&color=9c27b0)
@@ -15,6 +20,7 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=9c27b0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=9c27b0)
 
+<hr>
 
 ### You can find me on <a href="https://www.linkedin.com/in/nirav-c-52645712b">Linkedin</a> or <a href="https://twitter.com/niravchavda99">Twitter</a>.
 
