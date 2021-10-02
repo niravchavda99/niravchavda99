@@ -22,7 +22,7 @@ My name is Nirav Chavda. I'm from India and I'm a MCA Student at Gujarat Univers
 
 <hr>
 
-### You can find me on <a href="https://www.linkedin.com/in/nirav-c-52645712b">Linkedin</a> or <a href="https://twitter.com/niravchavda99">Twitter</a>.
+### You can find me on <a href="https://www.linkedin.com/in/niravchavda99">Linkedin</a> or <a href="https://twitter.com/niravchavda99">Twitter</a>.
 
 <!--
 **niravchavda99/niravchavda99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
