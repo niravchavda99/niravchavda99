@@ -4,7 +4,7 @@
 
 ### My name is Nirav Chavda. I'm from India, and I'm a Software Craftsperson.
 
-### My Profile 👉🏻 <a href="https://niravchavda99.github.io" target="_blank">Nirav Chavda</a>
+### My Profile 👉🏻 [Nirav Chavda](https://niravchavda99.github.io)
 
 <br>
 
